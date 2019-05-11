@@ -1,0 +1,30 @@
+    body{
+        background-color: #f4e9c8;
+        text-align: center;
+        margin: 0;
+        width:100%;
+        height:100%;
+    }
+    input{
+    	background-color: #E5E5E5;
+    	margin-bottom: 4px;
+    }
+    .bloco1{
+        color:#68613f;
+        background-color:#f4e9c8;
+    }
+    .bloco2{
+        
+        color:#f4e9c8; 
+        background-color:#68613f;
+    }
+   canvas{
+       border: 1px black solid;
+       
+   }
+   img{
+        border: 1px black solid;
+        max-width:50%;
+        max-height:50%;
+        margin: 5px;
+}
